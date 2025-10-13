@@ -1,5 +1,11 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiouku)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="left">
+  <p>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=aiouku&show_icons=true&count_private=true&theme=dracula" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiouku&layout=compact&count_private=true">
+  </p>
+</p>　
 <!--
 **aiouku/aiouku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
