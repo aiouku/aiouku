@@ -6,10 +6,14 @@
     <!-- <img height="150px" src="https://github-readme-stats.vercel.app/api?username=aiouku&show_icons=true&count_private=true&theme=dracula" /> -->
   </p>
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=aiouku&theme=onedark"/>
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=aiouku&theme=onedark"/> -->
     <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiouku)](https://github.com/anuraghazra/github-readme-stats)
     <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)"> -->
   </p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Youkin06&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css&t=1"/>
+  
+  <!--<img src="https://github-profile-trophy.vercel.app/?username=aiouku&theme=onedark"/> -->
+  
 </p>　
 
 <!--
