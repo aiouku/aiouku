@@ -5,7 +5,7 @@
 
 <h3>🌐 Portfolio</h3>
 
-  <a href="https://my-portfolio-gilt-rho-66.vercel.app/" target="_blank">
+  <a href="https://aiouku.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Vercel-Live-black?logo=vercel" />
   </a>
 
