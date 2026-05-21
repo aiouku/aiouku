@@ -14,7 +14,7 @@
 <h3>GitHub Stats 📊</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aiouku&layout=compact&theme=tokyonight&hide_border=false&langs_count=10&hide=html,css&t=1"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aiouku&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css&t=1"/>
 </p>
 
 
