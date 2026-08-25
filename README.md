@@ -14,7 +14,7 @@
 <h3>GitHub Stats 📊</h3>
 
 <p align="left">
-  <img src="https://grs-sage.vercel.app/api/top-langs/?username=aiouku&layout=donut&theme=tokyonight"/>
+  <img src="https://grs-sage.vercel.app/api/top-langs/?username=aiouku&layout=donut&theme=tokyonight&cache_bust=1"/>
 </p>
 
 
